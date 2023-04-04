@@ -24,4 +24,6 @@ For this challenge, I iterated through unknown length of 1-D array. To ensure th
   (Second Loop: 3 + 3 = 6)
   (Third Loop: 6 + 4 = 10)
   (Fourth Loop: 10 + 5 = 15)
+
+  *** I learned to work on solving the challenge by talking out each step and what I though that step would return in order to break down the challenge into smaller pieces. I mainly struggled with the initial assumption that I wanted to add the current element to the next element (i + 1), instead of adding the current element to the previous sum (num[i] += (i - 1)).
 */
